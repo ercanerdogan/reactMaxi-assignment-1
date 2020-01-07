@@ -1,3 +1,13 @@
+
+in this repository includes that some basic react usage examples. 
+
+ 1-create component, 
+ 2-state and props usage, 
+ 3-added a method to manipulate state, 
+ 4-event handler
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
